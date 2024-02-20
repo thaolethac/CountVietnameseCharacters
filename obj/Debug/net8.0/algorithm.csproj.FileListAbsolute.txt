@@ -1,0 +1,14 @@
+C:\Users\thaol\OneDrive\Desktop\feature\algorithm\bin\Debug\net8.0\algorithm.exe
+C:\Users\thaol\OneDrive\Desktop\feature\algorithm\bin\Debug\net8.0\algorithm.deps.json
+C:\Users\thaol\OneDrive\Desktop\feature\algorithm\bin\Debug\net8.0\algorithm.runtimeconfig.json
+C:\Users\thaol\OneDrive\Desktop\feature\algorithm\bin\Debug\net8.0\algorithm.dll
+C:\Users\thaol\OneDrive\Desktop\feature\algorithm\bin\Debug\net8.0\algorithm.pdb
+C:\Users\thaol\OneDrive\Desktop\feature\algorithm\obj\Debug\net8.0\algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thaol\OneDrive\Desktop\feature\algorithm\obj\Debug\net8.0\algorithm.AssemblyInfoInputs.cache
+C:\Users\thaol\OneDrive\Desktop\feature\algorithm\obj\Debug\net8.0\algorithm.AssemblyInfo.cs
+C:\Users\thaol\OneDrive\Desktop\feature\algorithm\obj\Debug\net8.0\algorithm.csproj.CoreCompileInputs.cache
+C:\Users\thaol\OneDrive\Desktop\feature\algorithm\obj\Debug\net8.0\algorithm.dll
+C:\Users\thaol\OneDrive\Desktop\feature\algorithm\obj\Debug\net8.0\refint\algorithm.dll
+C:\Users\thaol\OneDrive\Desktop\feature\algorithm\obj\Debug\net8.0\algorithm.pdb
+C:\Users\thaol\OneDrive\Desktop\feature\algorithm\obj\Debug\net8.0\algorithm.genruntimeconfig.cache
+C:\Users\thaol\OneDrive\Desktop\feature\algorithm\obj\Debug\net8.0\ref\algorithm.dll
